@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cccccc"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvsms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5sp"
+        android:layout_marginRight="5sp"
+        android:layout_marginTop="7sp"
+        android:background="@drawable/button_selector"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="10sp"
+        android:text="fewfiew"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/ii"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvsms"
+        android:weightSum="2" >
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvshare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/tvsms"
+        android:layout_alignTop="@+id/ii"
+        android:layout_marginRight="15dp"
+        android:layout_weight="1"
+        android:background="#4FABA0"
+        android:gravity="right"
+        android:text="SMS"
+        android:visibility="invisible"
+        android:textColor="#ffffff" />
+
+    <View
+        android:id="@+id/View2"
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:layout_alignBottom="@+id/tvshare"
+        android:layout_alignParentLeft="true"
+        android:background="#211856" />
+
+</RelativeLayout>

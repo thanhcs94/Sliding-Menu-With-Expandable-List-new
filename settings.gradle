@@ -1,0 +1,3 @@
+include ':MainActivity'
+include ':SlidingMenuLib-master'
+include ':Actionbar-Sherlock-master'

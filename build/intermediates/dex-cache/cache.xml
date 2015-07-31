@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\HTVOnline_Ver21\SlidingMenuFix2\MainActivity\build\intermediates\exploded-aar\SlidingMenuFix2\SlidingMenuLib-master\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0605108a1074901d0a00de1cd4cbcb74e9681401">
+        <dex dex="D:\HTVOnline_Ver21\SlidingMenuFix2\MainActivity\build\intermediates\pre-dexed\debug\classes-8f19f3d3b0d54e6c14e1da1fc7cea1a3bb522428.jar" />
+    </item>
+    <item
+        jar="D:\HTVOnline_Ver21\SlidingMenuFix2\MainActivity\build\intermediates\exploded-aar\SlidingMenuFix2\Actionbar-Sherlock-master\unspecified\libs\android-support-v4-r13.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a097db27533443ea036e23eb90934790128be76a">
+        <dex dex="D:\HTVOnline_Ver21\SlidingMenuFix2\MainActivity\build\intermediates\pre-dexed\debug\android-support-v4-r13.1-9e7b1d583a075b2737778201fcdd8c48c5e196a4.jar" />
+    </item>
+    <item
+        jar="D:\HTVOnline_Ver21\SlidingMenuFix2\MainActivity\build\intermediates\exploded-aar\SlidingMenuFix2\Actionbar-Sherlock-master\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8932043bb26be50dfe08a6af05d1bd556fbf9f8c">
+        <dex dex="D:\HTVOnline_Ver21\SlidingMenuFix2\MainActivity\build\intermediates\pre-dexed\debug\classes-be283dff7144c470a4cd76349db8ef1e4e13acca.jar" />
+    </item>
+
+</items>
